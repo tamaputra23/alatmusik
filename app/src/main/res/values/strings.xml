@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Alat Musik Tradisional</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--gesek-->
+    <string name="tarawangsa">Tarawangsa merupakan salah satu jenis kesenian rakyat yang ada di Jawa Barat. Istilah "Tarawangsa" sendiri memiliki dua pengertian:
+        \n(1)\t Alat musik gesek yang memiliki dua dawai yang terbuat dari kawat baja atau besi dan
+        \n(2)\t Nama dari salah satu jenis musik tradisional Sunda.</string>
+    <string name="rabab">Rabab adalah alat musik gesek tradisional khas Minangkabau yang terbuat dari tempurung kelapa. Dengan rabab ini dapat tersalurkan bakat musik seseorang. Biasanya dalam rabab ini dikisahkan berbagai cerita nagari atau dikenal dengan istilah Kaba.</string>
+   <string name="rabab_sj">Rabab atau lebih dikenal dengan Biola adalah kesenian tradisional yang umurnya sudah tergolong tua.Sebutan rabab pada biola ini berkaitan dengan latar belakang sejarahnya.</string>
+    <string name="tarawangsa_sj">Tarawangsa lebih tua keberadaannya daripada rebab, alat gesek yang lain. Rebab muncul di tanah Jawa setelah zaman Islam sekitar abad ke-15—16, merupakan adaptasi dari alat gesek bangsa Arab yang dibawa oleh para penyebar Islam dari tanah Arab dan India. </string>
+    <string name="kesokeso">Keso keso merupakan alat musik tradisional yang digesek, asalnya dari Sulawesi Selatan. Alat musik ini terkenal akan suaranya yang indah dan memiliki suara yang seakan-akan membuat kita merasakan suasana daerah asalnya.</string>
+    <string name="kesokeso_sj">Asal usul nama “Keso-keso” atau “Keso” sebenarnya karena cara memainkan alat musik ini adalah dengan cara digesek, tapi ada juga orang yang menyebutnya “Kere-Kere Galang”.</string>
+    <string name="rebab">adalah jenis alat musik senar yang dinamakan demikian paling lambat dari abad ke-8 dan menyebar melalui jalur-jalur perdagangan Islam yang lebih banyak dari Afrika Utara, Timur Tengah, bagian dari Eropa, dan Timur Jauh. </string>
+    <string name="rebab_sj">Namun, ada bukti adanya alat musik ini pada abad ke-9 juga di Eropa Timur: ahli geografi Persia abad ke-9 Ibnu Khurradadhbih mengutip lira Bizantium (atau lūrā) sebagai alat musik busur khas Bizantium dan setara dengan rabāb Arab.</string>
+    <string name="tehyan">Tehyan adalah alat musik gesek yang terbuat dari kayu jati dengan tabung resonansi yang terbuat dari batok kelapa, dan dilengkapi senar. Alat musik khas Betawi yang menghasilkan nada-nada tinggi ini diadaptasi dari budaya Tionghoa, biasanya dimainkan dengan alat-alat musik lainnya dalam musik tanjidor </string>
+    <string name="tehyan_sj">Alat musik ini merupakan gabungan (alkuturasi) adat Betawi dan Tiongkok yang masuk ke Indonesia ketika zaman kolonial Belanda, pada abad ke-18. Pada saat itu, tehyan sering digunakan pada pesta pernikahan, perayaan, hingga pemakaman </string>
+    <!--tiup-->
+    <string name="bangsi">adalah jenis Instrumen alat musik tiup bambu tradisional yang tumbuh dan berkemang di Lembah Alas, Kabupaten Aceh Tenggara, panjang bangsi/bansi sendiri lebih kurang panjang 41 cm dan berdiameter 2,8 cm, yang mana memiliki 7 buah lubang.</string>
+    <string name="bangsi_sj">Penggunaan Bangsi sendiri di tanah Alas dizaman dahulu biasa digunakan sebagai musik pengiring Tarian Landok Alun, Sebuah tarian khas dari Desa Telangat Pagan berkisah kegembiraan petani yang memperoleh lahan baru dengan kondisi tanah baik.</string>
+    <string name="karinding">Karinding merupakan salah satu alat musik tradisional Indonesia yang cara memainkannya disentil oleh ujung telunjuk sambil ditempel di bibir. Alat musik ini termasuk dalam jenis lamelafon atau idiofon. Biasanya dibuat dari bahan pelepah aren atau dari bambu.</string>
+    <string name="karinding_sj">Pada hubungan mataram dan cirebon, alat musik karinding di pelajari oleh orang-orang sunda untuk mengusir hama sawah. Ada beberapa tempat yang biasa membuat karinding, seperti di lingkung Citamiang, Pasirmukti, Cineam, (Tasikmalaya), lingkung Karinding Sadulur (Kasalur), Cikunten Mangkubumi, (Tasikmalaya), Lingkung Karinding Tunggal Ciamis, Lewo Malangbong, (Garut), dan Cikalongkulon (Cianjur) yang dibuat dari pelepah kawung (enau). </string>
+    <string name="pikon">Alat ini terbuat dari sejenis bambu yang beruas-ruas dan berongga bernama Hite. Bagian tengah alat musik ini ditinggalkan sepotong lidi penggetar. Pikon yang ditiup sambil menarik talinya ini hanya akan mengeluarkan nada-nada dasar, berupa do, mi dan sol.</string>
+    <string name="pikon_sj">Pikon sebenarnya berasal dari kata Pikonane, dan dalam bahasa Baliem berarti alat musik bunyi. Pikon merupakan alat musik tradisional khas suku Dani yang biasa dimainkan oleh kaum pria. Biasanya mereka memainkan alat ini sambil beristirahat setelah lelah bekerja seharian atau ketika bersantai di honai.</string>
+    <string name="serunai">Serunai, atau juga disebut puput serunai, adalah nama alat musik tiup yang dikenal di Indonesia sebagai alat musik tradisional masyarakat Minang. Bagian unik dari serunai adalah ujungnya yang mengembang, berfungsi untuk memperbesar volume suara.</string>
+    <string name="serunai_sj">Asal mula serunai atau puput serunai diperkirakan datang dari nama shehnai, alat musik yang berasal dari Lembah Kashmir di dataran India Utara. Alat musik shehnai diduga merupakan perkembangan dari alat musik pungi yang dipakai dalam musik para pemikat ular tradisional India.</string>
+    <string name="surdam">Surdam adalah alat musik tradisional Suku Karo dari Sumatra Utara, merupakan alat musik tiup berjenis end blown flute yang terbuat dari bambu. Cara memainkan surdam tidaklah mudah, hal ini disebabkan tidak terdapatnya sekat atau pembelah udara pada instrumennya. </string>
+    <string name="surdam_sj">Agar dapat memainkannya, maka seorang peniup surdam terlebih dahulu harus memiliki keterampilan khusus. Alat musik surdam terdiri dari beberapa jenis, yaitu surdam rumamis, surdam tangko kuda, surdam pingko-pingko, dan surdam puntung.</string>
+    <!--Peting-->
+    <string name="sasando">Sasando adalah sebuah alat musik dawai yang dimainkan dengan dipetik. Instumen musik ini berasal dari pulau Rote, Nusa Tenggara Timur. Secara harfiah nama Sasando menurut asal katanya dalam bahasa Rote, sasandu, yang artinya alat yang bergetar atau berbunyi.</string>
+    <string name="sasando_sj">Bagian utama sasando berbentuk tabung panjang yang biasa terbuat dari bambu. Lalu pada bagian tengah, melingkar dari atas ke bawah diberi ganjalan-ganjalan di mana senar-senar (dawai-dawai) yang direntangkan di tabung, dari atas kebawah bertumpu.</string>
+    <string name="kecapi">Kacapi merupakan alat musik Sunda yang dimainkan sebagai alat musik utama dalam Tembang Sunda atau Mamaos Cianjuran dan kacapi suling.</string>
+    <string name="kecapi_sj">Kata kacapi dalam bahasa Sunda juga merujuk kepada tanaman sentul, yang dipercaya kayunya digunakan untuk membuat alat musik kacapi.</string>
+    <string name="panting">Musik Panting[1] adalah musik tradisional dari suku Banjar di Kalimantan Selatan. Disebut musik Panting karena didominasi oleh alat musik yang dinamakan Panting, sejenis gambus yang memakai senar (panting) maka disebut musik Panting.</string>
+    <string name="panting_sj">Pada awalnya musik Panting berasal dari daerah Tapin, Kalimantan Selatan. Panting merupakan alat musik yang dipetik yang berbentuk seperti gambus Arab tetapi ukurannya lebih kecil. Pada waktu dulu musik panting hanya dimainkan secara perorangan atau secara solo.</string>
+    <string name="sapesampek">Sampe merupakan alat musik tradisional Suku Dayak.[1] Penyebutan alat musik yang dimainkan dengan cara dipetik ini berbeda-beda dalam tradisi masing-masing Sub suku dayak yang ada di Kalimantan Timur.</string>
+    <string name="sapesampek_sj">Orang-orang suku Dayak yang sebagian besar menetap di wilayah Kalimantan, Indonesia dan Malaysia Timur telah melalui periodesasi zaman yang sangat lama.[2] Oleh karena itu, kaum Melayu Tua ini tentunya memiliki peradaban dan kebudayaan beserta semua perangkat adat dan tradisinya.</string>
+    <string name="siter">Siter dan celempung adalah alat musik petik di dalam gamelan Jawa. Ada hubungannya juga dengan kecapi di gamelan Sunda.</string>
+    <string name="siter_sj">Nama "siter" berasal dari Bahasa Belanda "citer", yang juga berhubungan dengan Bahasa Inggris "zither". "Celempung" berkaitan dengan bentuk musikal Sunda celempungan.</string>
+    <!--pukul-->
+    <string name="rebana">Rebana (bahasa Jawa: terbang) adalah gendang berbentuk bundar dan pipih yang merupakan khas suku melayu. Bingkai berbentuk lingkaran terbuat dari kayu yang dibubut, dengan salah satu sisi untuk ditepuk berlapis kulit kambing.</string>
+    <string name="rebana_sj">Bagi masyarakat Melayu di negeri Pahang, permainan rebana sangat populer, terutamanya di kalangan penduduk di sekitar Sungai Pahang. Tepukan rebana mengiringi lagu-lagu tradisional seperti indong-indong, burung kenek-kenek, dan pelanduk-pelanduk.</string>
+    <string name="talempong">Talempong adalah sebuah alat musik pukul tradisional khas suku Minangkabau. Bentuknya hampir sama dengan instrumen bonang dalam perangkat gamelan. Talempong dapat terbuat dari kuningan, tetapi ada pula yang terbuat dari kayu dan batu. </string>
+    <string name="talempong_sj">Talempong biasanya digunakan untuk mengiringi tarian pertunjukan atau penyambutan, seperti Tari Piring yang khas, Tari Pasambahan, dan Tari Gelombang. Talempong juga digunakan untuk melantunkan musik menyambut tamu istimewa.</string>
+    <string name="saron">Saron atau yang biasanya disebut juga ricik ,adalah salah satu instrumen gamelan yang termasuk keluarga balungan.</string>
+    <string name="saron_sj">Cara menabuhnya ada yang biasa sesuai nada, nada yang imbal, atau menabuh bergantian antara saron 1 dan saron 2. Cepat lambatnya dan keras lemahnya penabuhan tergantung pada komando dari kendang dan jenis gendhingnya.</string>
+    <string name="kolintang">Kolintang atau kulintang adalah alat musik yang terdiri dari barisan gong kecil yang diletakkan mendatar. Alat musik ini dimainkan dengan diiringi oleh gong tergantung yang lebih besar dan drum.</string>
+    <string name="kolintang_sj">Di Indonesia, Kolintang dikenal sebagai alat musik perkusi bernada dari kayu yang berasal dari daerah Minahasa Sulawesi Utara. </string>
+    <string name="gambang">Gambang adalah alat musik tradisional yang terdiri dari 18 bilah bambu [1] yang dimainkan dengan cara dipukul. Alat musik ini digunakan dalam kesenian gambang kromong Betawi.</string>
+    <string name="gambang_sj"></string>
+
+
+</resources>
